@@ -1,3 +1,8 @@
+/**
+Author Jeya Prashanthini R
+Date   26/10/2020
+Desc   Find the mirror image
+*/
 
 import java.util.*;
 public class MirrorImage {
