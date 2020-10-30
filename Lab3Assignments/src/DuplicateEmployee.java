@@ -30,8 +30,7 @@ public class DuplicateEmployee {
 	private static int noOfDuplicate(String[] name, String[] designation) {
 		int duplicate=0;
 		
-		                                                      //Compares the name and designation for duplicate, if present then duplicate get increasing		
-
+		                                                                //Compares the name and designation for duplicate, if present then duplicate get increasing		
 		for(int i=0;i<name.length;i++) {
 			for(int j=i+1;j<name.length;j++) {
 				if(name[i].equalsIgnoreCase(name[j]) && 
