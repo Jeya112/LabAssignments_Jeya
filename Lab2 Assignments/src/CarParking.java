@@ -36,7 +36,7 @@ public class CarParking {
 			String name = sc.next();
 			System.out.println("Enter the Register Number");
 			String regNo = sc.next();
-			CarDetails cd = new CarDetails(name, regNo);
+			CarDetails cd = new CarDetails(name, regNo);                     //constructor parameterizeed
 			loop: for (int i = 0; i < 5; i++) {
 				for (int j = 0; j < story[i].length; j++) {
 					if (story[i][j] == null) {                                     // checks for empty spaces
