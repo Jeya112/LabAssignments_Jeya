@@ -1,11 +1,4 @@
 /**
- Author : Jeya Prashanthini
- Date :   26/10/20
- Desc :   Finding difference in digits
-*/
-import java.util.Scanner;
-
-/**
  Author : Jeya Prashanthini R
  Date :   26/10/2020
  Desc :   Finding difference in digits
