@@ -1,4 +1,9 @@
-
+/**
+Author Jeya Prashanthini 
+Date   26/10/2020
+Desc   Finding duplicate employee
+*/
+	
 import java.util.*;
 
 public class DuplicateEmployee {
@@ -6,7 +11,6 @@ public class DuplicateEmployee {
 	public static void main(String[] args) {
         
 		Scanner scan =new Scanner(System.in);
-		
 		System.out.println("Enter the number of Employees");
 		int num= scan.nextInt();
 		String[] name = new String[num];
