@@ -1,0 +1,10 @@
+package problem3;
+
+public class book {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
