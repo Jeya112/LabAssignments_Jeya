@@ -1,9 +1,21 @@
+/*
+ * name Jeya Prashanthini R
+ * date 1/11/2020
+ * desc Library Management System
+ */
 package problem3;
 
-public class book {
+public class book extends WrittenItem{
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	@Override
+	public void addDetails() {
+		super.addDetails();
+	}
+                                                                   // Overridding methods
+	@Override
+	public void printDetails() {
+		super.printDetails();
+		
 
 	}
 
